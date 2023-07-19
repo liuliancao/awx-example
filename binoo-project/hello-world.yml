@@ -1,0 +1,6 @@
+# binoo hello world ... by liuliancao at 20230719.
+- hosts: all
+  gather_facts: no
+  roles:
+    - { role: hello-world }
+

@@ -1,0 +1,2 @@
+# used for testing awx by liuliancao at 20230719.
+- name: echo whoami
