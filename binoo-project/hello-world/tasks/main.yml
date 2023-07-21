@@ -1,0 +1,4 @@
+# used for say hello world for awx
+- name: say hello
+  debug:
+    msg: {{ hello_message }}
